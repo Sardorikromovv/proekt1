@@ -1,0 +1,521 @@
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: deeppink;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 25px 10px;
+    position: relative;
+    background-color: deeppink;
+}
+.navbar-item a{
+    color: white;
+}
+.navbar-item:hover a{
+    color: white;
+    text-decoration: underline;
+}
+.navbar1{
+    background-color: white;
+}
+.navbar-menu1{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: purple;
+}
+.navbar-item1{
+    display: inline-block;
+    padding: 25px 10px;
+    position: relative;
+    background-color: purple;
+}
+.navbar-item1 a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+.navbar-item1:hover a{
+    text-decoration: underline;
+}
+.navbar2{
+    background-color: white;
+}
+.navbar-menu2{
+    margin-top: 0;
+    margin-left: 100px;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item2{
+    display: inline-block;
+    padding: 25px 10px;
+    position: relative;
+}
+.navbar-item2 a{
+    color: purple;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+}
+.navbar-item2:hover a{
+    text-decoration: underline;
+    position: relative;
+}
+.border{
+    width: 500px;
+    height: 80px;
+    border: 1px solid purple;
+    border-top-right-radius: 30px;
+    background-color: purple;
+}
+.tarif{
+    width: 1920px;
+    height: 480px;
+    background-image: url("../rasmlar/doimy.png");
+    background-repeat: no-repeat;
+    border: 1px solid white;
+}
+.doimiy{
+    width: 500px;
+    height: 80px;
+    border: 1px solid purple;
+    border-top-right-radius: 30px;
+    margin-top: 398px;
+    background-color: purple;
+}
+.doimiy p{
+    color: white;
+    font-size: 30px;
+    margin-left: 280px;
+}
+.cheksz{
+    margin-left: 250px;
+
+}
+.border1 p{
+    margin-left: 170px;
+}
+.border2{
+    margin-left: 720px;
+    margin-top: -280px;
+}
+.border2 p{
+    margin-left: 120px;
+}
+.border3{
+    margin-left: 1190px;
+    margin-top: -281px;
+}
+.border3 p{
+    margin-left: 165px;
+}
+.yozuv{
+    display: flex;
+}
+.yozuv h1{
+    position: absolute;
+    margin-left: 250px;
+}
+.yozuv h2{
+    margin-left: 440px;
+    margin-top: 25px;
+    color: purple;
+}
+.yozuv p{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: purple;
+}
+.kalendar{
+    width: 1200px;
+    height: 190px;
+    background-color: whitesmoke;
+    margin-left: 400px;
+}
+.a25{
+    width: 100px;
+    height: 100px;
+    border: 1px solid hotpink;
+    border-radius: 8px;
+    background-color: hotpink;
+    margin-left: 200px;
+}
+.a25 h1{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+.a25 p{
+    text-align: center;
+    margin-top: 50px;
+}
+.b20{
+    width: 100px;
+    height: 100px;
+    border: 1px solid hotpink;
+    border-radius: 8px;
+    background-color: hotpink;
+    margin-left: 400px;
+    margin-top: -100px;
+}
+.b20 h1{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+.b20 p{
+    text-align: center;
+    margin-top: 50px;
+}
+.c14{
+    width: 100px;
+    height: 100px;
+    border: 1px solid hotpink;
+    border-radius: 8px;
+    background-color: hotpink;
+    margin-left: 630px;
+    margin-top: -100px;
+}
+.c14 h1{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+.c14 p{
+    text-align: center;
+    margin-top: 50px;
+}
+.d13{
+    width: 100px;
+    height: 100px;
+    border: 1px solid hotpink;
+    border-radius: 8px;
+    background-color: hotpink;
+    margin-left: 850px;
+    margin-top: -100px;
+}
+.d13 h1{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+.d13 p{
+    text-align: center;
+    margin-top: 50px;
+}
+.call{
+    width: 100%;
+    background-color: dodgerblue;
+}
+.call-senter{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: dodgerblue;
+    text-decoration: none;
+}
+.call-senter-item{
+    display: inline-block;
+    padding: 25px 10px;
+    position: relative;
+    background-color: dodgerblue;
+}
+.call-senter a{
+    color: white;
+}
+.text{
+    width: 100%;
+    height: 200px;
+    border: 1px solid purple;
+    background-color: purple;
+}
+.yangiliklar{
+    width: 300px;
+    height: 200px;
+    /*border: 1px solid purple;*/
+    margin-left: 250px;
+}
+.yangiliklar img{
+    margin-left: 120px;
+}
+.yangiliklar h1{
+    color: white;
+    text-align: center;
+}
+.yangiliklar p{
+    text-align: center;
+    color: white;
+}
+.karyera{
+    width: 300px;
+    height: 195px;
+    /*border: 1px solid purple;*/
+    margin-left: 550px;
+    margin-top: -200px;
+}
+.karyera img{
+    margin-left: 120px;
+}
+.karyera h1{
+    color: white;
+    text-align: center;
+}
+.karyera p{
+    text-align: center;
+    color: white;
+}
+.office{
+    width: 300px;
+    height: 195px;
+    /*border: 1px solid purple;*/
+    margin-left: 850px;
+    margin-top: -190px;
+}
+.office img{
+    margin-left: 120px;
+}
+.office h4{
+    color: white;
+    text-align: center;
+}
+.office p{
+    text-align: center;
+    color: white;
+}
+.fribgarlik{
+    width: 300px;
+    height: 195px;
+    /*border: 1px solid purple;*/
+    margin-left: 1200px;
+    margin-top: -190px;
+}
+.fribgarlik img{
+    margin-left: 120px;
+}
+.fribgarlik h3{
+    color: white;
+    text-align: center;
+}
+.fribgarlik p{
+    text-align: center;
+    color: white;
+}
+.hisob{
+    width: 100%;
+    height: 80px;
+    border: 1px solid white;
+    background-color: white;
+}
+.hisob h2{
+    margin-left: 250px;
+    color: grey;
+}
+.utolov{
+    width: 100%;
+    height: 80px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+}
+.utolov img{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.servis{
+    width: 100%;
+    height: 80px;
+    border: 1px solid white;
+    background-color: white;
+}
+.servis h2{
+    margin-left: 250px;
+    color: grey;
+}
+.blok{
+    width: 100%;
+    height: 350px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+}
+.usel{
+    width: 200px;
+    height: 350px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    margin-left: 320px;
+    margin-top: -1px;
+}
+.usel img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.usel h3{
+    color: purple;
+    text-align: center;
+}
+.usel p{
+    text-align: center;
+    color: grey;
+}
+.funzona{
+    width: 200px;
+    height: 350px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    margin-left: 600px;
+    margin-top: -352px;
+}
+.funzona img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.funzona h1{
+    color: purple;
+    text-align: center;
+}
+.funzona p{
+    color: grey;
+    text-align: center;
+}
+.qongiroq{
+    width: 200px;
+    height: 350px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    margin-left: 900px;
+    margin-top: -352px;
+}
+.qongiroq img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.qongiroq h3{
+    text-align: center;
+    color: purple;
+}
+.qongiroq p{
+    text-align: center;
+    color: grey;
+}
+.u-tolov{
+    width: 200px;
+    height: 350px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    margin-left: 1200px;
+    margin-top: -352px;
+}
+.u-tolov img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.u-tolov h3{
+    text-align: center;
+    color: purple;
+}
+.u-tolov p{
+    text-align: center;
+    color: grey;
+}
+.last{
+    width: 100%;
+    height: 600px;
+    border: 1px solid purple;
+    background-color: purple;
+}
+.malmotlar{
+    width: 400px;
+    height: 600px;
+    border: 1px solid purple;
+    margin-left: 100px;
+}
+.malmotlar h4{
+    color: white;
+    text-align: left;
+}
+.malmotlar p{
+    color: white;
+
+}
+.malmotlar h1:hover{
+    text-decoration: underline;
+}
+.malmotlar p:hover{
+    text-decoration: underline;
+}
+.tariflar{
+    width: 400px;
+    height: 600px;
+    border: 1px solid purple;
+    margin-left: 600px;
+    margin-top: -600px;
+}
+.tariflar h4{
+    text-align: left;
+    color: white;
+}
+.tariflar p{
+    color: white;
+}
+.tariflar h4:hover{
+    text-decoration: underline;
+}
+.tariflar p:hover{
+    text-decoration: underline;
+}
+.xizmatlar{
+    width: 400px;
+    height: 600px;
+    border: 1px solid purple;
+    margin-left: 900px;
+    margin-top: -600px;
+}
+.xizmatlar h4{
+    text-align: left;
+    color: white;
+}
+.xizmatlar p{
+    text-align: left;
+    color: white;
+}
+.xizmatlar h4:hover{
+    text-decoration: underline;
+}
+.xizmatlar p:hover{
+    text-decoration: underline;
+}
+.internet{
+    width: 400px;
+    height: 600px;
+    border: 1px solid purple;
+    margin-left: 1300px;
+    margin-top: -600px;
+}
+.internet h4{
+    color: white;
+    text-align: left;
+}
+.internet p{
+    color: white;
+    text-align: left;
+}
+.internet h4:hover{
+    text-decoration: underline;
+}
+.internet p:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
